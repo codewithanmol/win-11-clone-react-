@@ -1,7 +1,7 @@
 # Win11 in React!
 
 [![Follow me] (https://www.instagram.com/itz_anmol_tyagi_vasishth/)
-if it's not  working   so please feel free  and contact me on what's app +917505786766s
+if it's not  working   so please feel free  and contact me on what's app +917505786766
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
